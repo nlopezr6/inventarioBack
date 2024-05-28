@@ -11,7 +11,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/Products")
-@CrossOrigin(origins = "https://inventario-front-delta.vercel.app")
+@CrossOrigin(origins = "*")
 public class ProductsController {
     @Autowired
     private ProductsService productsService;

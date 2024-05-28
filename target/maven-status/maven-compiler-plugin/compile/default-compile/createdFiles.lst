@@ -1,2 +1,9 @@
+com\inventory\products\config\CorsConfig.class
+com\inventory\products\config\CorsConfig$1.class
 com\inventory\products\InventoryApplication.class
+com\inventory\products\repository\ProductRepository.class
+com\inventory\products\services\ProductsService.class
+com\inventory\products\controller\ProductsController.class
+com\inventory\products\entity\Product.class
+com\inventory\products\config\SecurityConfig.class
 com\inventory\products\dto\ProductosDTO.class
